@@ -1,7 +1,6 @@
-.banner {
+.main-banner {
     width: 200px;
     height: 250px;  
     border: 2px solid var(--color-first);
     box-shadow: 4px 4px 0px var(--color-black-first);
-
 }
